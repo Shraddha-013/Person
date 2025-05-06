@@ -1,5 +1,3 @@
-package Prg3;
-
 public class Employee extends Person {
     int empID;
     double salary;
